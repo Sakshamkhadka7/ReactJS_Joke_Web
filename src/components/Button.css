@@ -1,0 +1,13 @@
+.btn{
+    margin-left: 560px;
+    margin-bottom: 20px;
+    background: #7d8687;
+  border: 2px solid white;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: wheat;
+  font-size: larger;
+}
+.btn:hover{
+    background-color: rgb(76, 79, 79);
+}
